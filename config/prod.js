@@ -1,0 +1,7 @@
+module.exports = {
+  MONGOURL : process.env.MONGOURL,
+  JWT_SECRET : process.env.JWT_SEC,
+  SENDGRID_API : process.env.SENDGRID_API,
+  EMAIL_URL : process.env.EMAIL_URL,
+  LINK : process.env.link
+}
